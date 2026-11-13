@@ -134,3 +134,49 @@ jesteśmy zainteresowani linią Erlenbach EM Motion (EHV-C-E 01 1485/1285 + EV35
 
 Z poważaniem,
 [Imię, firma, telefon]
+
+---
+
+# США / Канада / Мексика — углублённый поиск (2026-11-13, 2-й заход)
+Проверено: Machinio, Surplus Record, Federal Equipment, Aaron Equipment, eBay/Craigslist/Kijiji (через used.forsale),
+аукционы KD Auctions, Integra, Meadoworks, FedEquip, HGP, CIA Industrial, BidSpotter/EquipNet/Hilco/Proxibid,
+испаноязычные объявления (Мексика), закрытия EPP/EPS-заводов в США.
+
+**Результат: ни одного б/у формовочного автомата EPP/EPS (Kurtz/Erlenbach/Teubert/Hirsch и др.) с локацией
+в Северной Америке в открытых объявлениях нет.** Аукцион Altex Packaging (Лоренсвилл, Джорджия, март 2026) —
+только резка/фрезеровка пены и литьевые Milacron, формовочных автоматов нет.
+
+Почему так: рынок EPP в США маленький (JSP, Knauf, Engineered Foam Packaging и т. п.), станки продаются
+напрямую или через брокеров, на открытые площадки почти не попадают. Значит, в Америке искать
+**через запрос «куплю» брокерам и самим формовщикам**.
+
+Попутно в Европе:
+- Erlenbach EHV-C 1650/1550, **2014** — был на аукционе NetBid #18292 (апрель 2025, завершён).
+  Можно спросить NetBid, кому ушёл, и предложить покупателю перепродать.
+- Modix MD270 HP-Z, 2016 — для EPP, но это блок-форма (не для деталей), не подходит.
+
+## Куда слать запрос «куплю» в Северной Америке
+| Кому | Зачем |
+|---|---|
+| Foam Equipment & Consulting (foamequipment.com) | брокер/представитель Teubert, EPRO; trade-in и б/у |
+| Kurtz Ersa North America (us.kurtzersa.com) | б/у Kurtz, сданные при покупке новых |
+| Engineered Foam Packaging (Bishopville, SC) | расширялись в 2026 — могут продавать старые автоматы |
+| JSP, Knauf Industries NA, Sekisui (EPP-формовщики) | продажа выведенного из работы оборудования |
+| Аукционы: Meadoworks, KD Auctions, Integra, FedEquip, HGP, EquipNet, BidSpotter | подписка на оповещения: «shape molder», «EPP», «steam chest», «bead molding» |
+
+## EN — запрос «куплю» (Wanted)
+Subject: WANTED — used EPP shape molding machine, 2011 or newer, tool size ~1485 x 1285 mm (58" x 51")
+
+Hello,
+
+we are looking to buy a used, fully operational EPP shape molding (steam chest) machine:
+- built 2011 or newer, any make (Erlenbach, Kurtz, Teubert, Hirsch, Daisen, EPRO or similar);
+- tool / mold size at least 1485 x 1285 mm (58.5" x 50.6"), tool depth ≥ 180 mm (7");
+- suitable for EPP (steam pressure 4–5 bar / 60–75 psi).
+
+If you have such a machine, or know of one (including upcoming auctions or plant closures),
+please send: make/model, year, hours, condition, video in operation, location, price, and
+utility requirements (steam, air, water, vacuum, voltage). Export outside the USA is planned.
+
+Best regards,
+[Name, company, phone]
