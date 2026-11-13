@@ -180,3 +180,29 @@ utility requirements (steam, air, water, vacuum, voltage). Export outside the US
 
 Best regards,
 [Name, company, phone]
+
+---
+
+# Machinio.com — выборка (2026-11-13)
+Сайт закрыт защитой от роботов (Akamai, 403), поэтому смотрел только через поисковый индекс.
+Раздел https://www.machinio.com/presses — это гидравлические и механические прессы для металла. **Для EPP они не подходят**:
+EPP формуется на паровом формовочном автомате (shape moulding / steam chest), а не на прессе.
+
+Что нашлось на Machinio по EPP/EPS-формовке:
+| Станок | Год | Цена | Подходит? |
+|---|---|---|---|
+| Modix MD270 HP-Z (EPS/EPP/EPE) | 2016 | по запросу | нет — блок-форма, не для деталей |
+| NAN-JHIEH NJ-150VM (Тайвань, EPS/EPE) | 2008 | ~$26 550 | нет — старый, не EPP |
+| Eishi ESCX-1212 / ESCX-RE1618 (Китай) | новые | — | EPS, не EPP-класс |
+| Taixin QT8-15 (Китай) | — | $25 000 | EPS, не EPP-класс |
+Итог: подходящих (EPP, 2011+, форма ≥1485×1285) на Machinio сейчас нет.
+
+Ссылки для ручного просмотра:
+- https://www.machinio.com/cat/eps-shape-moulding-machine
+- https://www.machinio.com/cat/eps-moulding-machine
+- https://www.machinio.com/listings?search=epp+molding
+- https://www.machinio.com/listings?search=shape+molding+machine
+- https://www.machinio.com/manufacturer/kurtz
+- https://www.machinio.com/listings?search=erlenbach
+- https://www.machinio.com/listings?search=teubert
+- https://www.machinio.com/listings?search=hirsch+eps
