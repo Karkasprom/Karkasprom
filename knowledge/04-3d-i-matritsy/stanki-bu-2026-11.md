@@ -206,3 +206,51 @@ EPP формуется на паровом формовочном автомат
 - https://www.machinio.com/listings?search=erlenbach
 - https://www.machinio.com/listings?search=teubert
 - https://www.machinio.com/listings?search=hirsch+eps
+
+---
+
+# Бюджет до $76–90 тыс. (≈ 70–83 тыс. €) — проверка 2026-11-13 (сайты открыты напрямую)
+Бюджет: ориентир — новый китайский EPP-автомат $76–90 тыс. Б/у в Европе до этой суммы;
+из США — только заметно дешевле (доставка + переделка 60→50 Гц). Подходит и отдельный автомат без линии.
+
+## Статус ранее найденного
+| Станок | Статус |
+|---|---|
+| Erlenbach EM Motion 2019 (PL, 480 000 €) | дорого; объявление на Machineseeker **снято (404)**, у Kennedy — SOLD |
+| Erlenbach EHV-C-E 1485/1285 2020 (MachinePoint) | **продан** |
+| Teubert TramsTec 170/125 2015 (PL, 17 000 €) | объявление **снято (404)** |
+| Kurtz K1318 2008 (PL, 70 000 €) | объявление **снято (404)** |
+| Kurtz K810 HP-5 (resale.info) | **снято (404)** |
+| Аукцион NetBid #18292 (Бад-Вильдунген): Erlenbach EHV-C 1650/1550 **2014**, Kurtz K1121 (1100×2100), EHV-C 1485/1285 2001 | **завершён апрель 2025** — станки ушли перекупщикам, можно спросить NetBid (Peter Sattler) |
+
+## Сейчас в продаже, формат под матрицу 1485×1285 (цены «по запросу»)
+| Станок | Год | Формат | Состояние | Ссылка |
+|---|---|---|---|---|
+| **Erlenbach EHV-C 1485/1285** (3 шт.) | 2002 | форма 1485×1285, глубина 180, плита 1560×1360 | **в работе**, поставка 2–3 мес., без гарантии | https://www.machinepoint.com/machinepoint/inventory.nsf/idmaquina/300049426?opendocument=&ln=en |
+| **Hirsch HS 1500 AV1-W1515** (2 шт.) | 1999 | крепление 1500×1300, деталь до 1460×1260×**350** | **не работает**, показ с материалом, сразу | https://www.machinepoint.com/machinepoint/inventory.nsf/idmaquina/300049855?opendocument=&ln=en |
+| Heitz HC 1460 | 2004 | форма 1612×800×45 — **мала** | в работе | https://www.machinepoint.com/machinepoint/inventory.nsf/idmaquina/300046548?opendocument=&ln=en |
+| Erlenbach EHV-C 1395/870 (2 шт.) | 2003 | 1395×870 — мала (нужны 2 формы) | — | https://www.machinepoint.com/machinepoint/inventory.nsf/idmaquina/300049438?opendocument=&ln=en |
+| Erlenbach EHV-c 1270/670 | ? | мала | «хорошее, показ под током» | https://www.resale.info/en/erlenbach-ehv-c-1270670-shape-moulding-machines/No-170058867 |
+
+## ГЛАВНЫЙ РИСК
+Всё, что есть сейчас в продаже под ваш формат, — **станки для EPS**. EPP требует пар ~3–4,5 бар;
+EPS-машины часто рассчитаны на меньшее давление паровой камеры. Обязательно спросить
+**максимальное рабочее давление паровой камеры** и можно ли работать с EPP. Если нет — станок не годится,
+каким бы дешёвым он ни был.
+
+## США
+Открытых объявлений EPP/EPS-автоматов с локацией в США нет (проверено 2 раза + Machinio).
+Цена из США имеет смысл только < ~$40–50 тыс. (доставка ~$15–25 тыс. + переделка электрики + CE).
+
+## EN — письмо в MachinePoint (цены + EPP)
+Subject: Price request — Erlenbach EHV-C 1485/1285 (ref. 300049426) and Hirsch HS 1500 (ref. 300049855)
+
+Hello,
+please send prices and details for:
+1) Erlenbach EHV-C 1485/1285, 2002, ref. 300049426 (price per machine);
+2) Hirsch HS 1500 AV1-W1515, 1999, ref. 300049855.
+For each: location, operating hours, maximum steam chamber working pressure (bar) —
+we need to mould EPP (3–4.5 bar), is the machine suitable or upgradable? Control/PLC version,
+service history, video in operation, refurbishing option and cost, dismantling/loading/transport
+to [страна]. Our budget is up to EUR 70,000 per machine.
+Best regards, [Name, company, phone]
