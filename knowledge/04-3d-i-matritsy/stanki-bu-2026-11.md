@@ -79,3 +79,21 @@ Dampfdruck (EPP-tauglich), Standort, Preis und Lieferbedingungen. Gern auch Vide
 
 Mit freundlichen Grüßen
 [Name, Firma, Telefon]
+
+---
+
+# Американский рынок (поиск 2026-11-13)
+**Итог: б/у EPP-автоматов 2011+ в США, Канаде и Мексике в открытых объявлениях не найдено.**
+Все найденные Kurtz, Erlenbach, Hirsch и Teubert стоят в Европе. Machinio — в основном новые китайские станки.
+
+Куда писать в США:
+- **Foam Equipment & Consulting** (foamequipment.com) — представитель Teubert в США, продаёт EPRO
+  (поле формы от 670×570 до 2270×1420). Спросить б/у и trade-in.
+- Аукционы ликвидаций: Meadoworks, FedEquip, HGP Auction, CIA Industrial, KD Auctions —
+  поставить оповещение на «shape molding / EPP / bead molding».
+- Дочки производителей: Kurtz Ersa North America, Erlenbach и Teubert через представителей — trade-in.
+
+Риски станка из США для Европы:
+- Электрика 480 В / 60 Гц → в Европе 400 В / 50 Гц: насосы и моторы, частотники, переделка шкафа.
+- Нет CE-маркировки → в ЕС нужна сертификация (оценка соответствия).
+- Доставка: морем 1–2 контейнера / flat-rack + демонтаж, плюс пошлина и НДС.
