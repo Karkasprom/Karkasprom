@@ -13,6 +13,33 @@ _(заполнится из выгрузки прошлых переписок)_
 | Дата | Что решили |
 |------|-----------|
 | 2026-11-13 | Запрошен выбор лучшего предложения; КП в репозиторий ещё не загружены, добавлен шаблон сравнения |
+| 2026-11-14 | Собран список изготовителей матриц EPP с контактами WhatsApp |
+
+## Изготовители матриц под EPP — найдено 2026-11-14
+Номера взяты из результатов поиска, сами сайты не открывались (закрыты в сетевых настройках сессии). Перед отправкой чертежей проверить номера.
+
+### Китай — есть WhatsApp
+| Компания | WhatsApp | Сайт | Заметки |
+|---|---|---|---|
+| Hangzhou Fangyuan Plastics Machinery | +86 159 9006 3230 | fang-yuan.com | с 1988 г., формы EPS/EPP/EPO/ETPU и машины |
+| Milon Industries (Hangzhou) | +86 159 9006 7889 | hzmilon.com | 30 лет на рынке; менеджер Kelly, WeChat kellyzhan88, тел. +86 182 5710 0130 |
+| Fackel Machinery (Наньань, Фуцзянь) | +86 158 8070 8938 | epseppmachine.com | формы EPS/EPP/ETPU/EPO |
+| Jinhua Green Building EPS Machine | +86 180 5792 5785 | eps-mould.com | |
+| Hangzhou Sutuan Machinery | +86 137 7735 8696 | sutuanmachinery.com | в основном машины |
+| Qingdao Simingrui | — | qdsimingrui.en.made-in-china.com | алюминиевая форма EPP примерно от $4000 |
+| Hangzhou Epsole | — | epsole.com | около 1000 форм EPP в год |
+| Уху Цзянье (российско-китайская) | — | jian-ye.ru | только формы EPS/EPP, сайт на русском |
+
+### Европа — WhatsApp не найден, писать через сайт
+- Gebr. Diemer, Германия (formenbau-diemer.de) и Diemer AG, Швейцария — до 200 форм в год
+- T. Michel Formenbau, Германия (michel-form.de) — около 320 форм в год, энергосберегающие формы
+- Keiels Formenbau, Германия (keiels-formenbau.de) — с 1990 г., EPP/EPS/ETPU
+- FORMOTiON, Германия (formotion-gmbh.de)
+- Idé-Pro, Дания (ide-pro.com)
+
+### Россия
+- NOVAPLEX, Тольятти (novaplex.ru) — полный цикл EPP, своё изготовление пресс-форм
+- deltapenoplast.ru — оснастка под EPP/EPS, срок 2–3 мес.
 
 ## Сравнение предложений по матрицам (пресс-формам)
 > 2026-11-13: в репозитории предложений нет. Положить КП в `knowledge/_inbox/`.
