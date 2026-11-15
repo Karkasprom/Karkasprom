@@ -15,6 +15,7 @@
 | 3 | Металлокаркасы | `knowledge/03-metallokarkasy/` | в работе |
 | 4 | 3D-модели и матрицы (пресс-формы) | `knowledge/04-3d-i-matritsy/` | в работе |
 | 5 | Сайт | `knowledge/05-sajt/` | есть `index.html` |
+| 6 | Электроника, датчики, DIY-наборы + прошивка через ИИ-агента | `knowledge/06-elektronika-diy/` | идея |
 
 ## Правила для Claude
 1. Перед ответом по любой теме прочитай `README.md` нужной папки в `knowledge/`.
