@@ -138,7 +138,7 @@ Best regards,
 
 ## Текст (DE) — для немецких производителей и дилеров
 
-**Betreff:** Suche gebrauchter EPP-Formteilautomat (Dampfdruck 4,5–5 bar)
+**Betreff:** Gesucht: gebrauchter EPP-Formteilautomat (Dampfdruck 4,5–5 bar)
 
 Guten Tag,
 
