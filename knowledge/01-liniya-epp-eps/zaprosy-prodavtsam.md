@@ -122,11 +122,10 @@ We are looking for a **used shape moulding machine suitable for EPP** (expanded 
 
 Requirements:
 - EPP-capable: steam chamber pressure rating 4.5–5 bar or higher
-- Steam chamber / mould size from approx. 800 × 1000 mm (larger is welcome)
+- Steam chamber / mould size: minimum approx. 600 × 800 mm, maximum approx. 2000 × 1600 mm (any size in this range is of interest)
 - Steel steam chambers, sufficient clamping force for EPP
 - Preferably with pressure filling system and EPP bead pressurisation (or available separately)
 - In working condition, ideally can be seen in operation
-- Budget: up to approx. EUR 80,000 (machine only)
 
 Please send: model, year, operating hours, steam pressure rating, clamping force, chamber size, what is included, price, location, photos/video.
 
@@ -149,11 +148,10 @@ wir suchen einen **gebrauchten Formteilautomaten für EPP** und möchten wissen,
 
 Anforderungen:
 - EPP-tauglich: Dampfkammern ausgelegt für mindestens 4,5–5 bar
-- Dampfkammer-/Werkzeuggröße ab ca. 800 × 1000 mm
+- Dampfkammer-/Werkzeuggröße: mindestens ca. 600 × 800 mm, maximal ca. 2000 × 1600 mm (jede Größe in diesem Bereich ist interessant)
 - Dampfkammern aus Stahl, ausreichende Schließkraft für EPP
 - Möglichst mit Druckfüllsystem und Druckbeladung für EPP-Granulat
 - Betriebsbereit, gerne Besichtigung im Betrieb
-- Budget: bis ca. 80.000 EUR (nur Maschine)
 
 Bitte senden Sie uns: Typ, Baujahr, Betriebsstunden, zulässiger Dampfdruck, Schließkraft, Kammergröße, Lieferumfang, Preis, Standort, Fotos/Video.
 
