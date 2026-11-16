@@ -180,3 +180,22 @@ Mit freundlichen Grüßen
 - Спрашивают, есть ли у нас завод EPP. Если нет, нужны ёмкости для выдержки гранул под давлением, бункеры, сушильная камера, а также пар, сжатый воздух и охлаждающая вода.
 - Следующий шаг: запросить у них полное КП на линию «под ключ» с сертификатом CE (для установки в Польше).
 - Разбор: «K1315» — обозначение Kurtz, судя по системе названий это камера примерно 1300×1500 мм (K810 = 800×1000). Отзывов на китайскую машину нет, пока неизвестна марка. Для сравнения: б/у **Kurtz K1318 HP MP 2008 г., работал на EPP, Хожув (Польша), 70 000 € без НДС, наработка около 40 800 ч** (machineseeker i-20342310; объявление, похоже, снято — уточнить у продавца). Китайский EPS-пресс подобного класса стоит от 37 000 $, так что 75 000 $ за EPP-версию — рыночная цена. Форма EPP за 15 000 $ — нормально для Китая (в ЕС 20–50 тыс. €).
+
+## Kurtz K1318 HP MP, Хожув — объявление АКТИВНО (проверено 2026-11-16)
+- Maszyneo ID 135: https://maszyneo.com/tworzywa-sztuczne/wtryskarka-elektryczna/wtryskarka-automatyczna-kurtz-k1318-hp-mp-i135
+- 290 000 зл (≈ 68 тыс. €), опубликовано 18.10.2026. Модель K1318HP5MP, 2008 г., работал на EPP, CE, вес 16 т, мощность 65 кВт, 400 В, наработка ~40 800 ч. Работал до недавнего времени; помогают с погрузкой и транспортом.
+- Объявление размещает Maszyneo (посредник, Быдгощ), тел. **+48 789 477 448**; телефон продавца на сайте скрыт (+48 60710…). E-mail нет, только форма «Wyślij wiadomość» на сайте или звонок/WhatsApp.
+- На machineseeker та же машина была за 70 000 € FCA без НДС.
+
+### Текст для Maszyneo (PL)
+Dzień dobry,
+jesteśmy zainteresowani ogłoszeniem nr 135 – Kurtz K1318 HP MP (2008), Chorzów, 290 000 zł.
+Kupujemy dla własnej produkcji (linia EPP), nie jesteśmy pośrednikiem.
+Prosimy o informacje:
+1. Czy maszyna jest nadal dostępna?
+2. Maksymalne ciśnienie pary w komorach, siła zamykania, wymiary komory/formy.
+3. Liczba motogodzin, stan techniczny, data ostatniego przeglądu, sterowanie (PLC).
+4. Co wchodzi w zakres dostawy (formy, injektory, układ próżniowy, dokumentacja, deklaracja CE).
+5. Czy jest możliwość obejrzenia maszyny w Chorzowie w najbliższych dniach (najlepiej w pracy)?
+6. Zdjęcia/wideo, cena końcowa netto, warunki płatności.
+Comfortable Building Sp. z o.o., ul. Starowiejska 19, 32-406 Zakliczyn, NIP 6762482667
