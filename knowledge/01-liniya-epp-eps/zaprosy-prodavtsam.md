@@ -167,3 +167,9 @@ Mit freundlichen Grüßen
 - Дополнительно отправлено 2026-11-16 (DE): Erlenbach info@erlenbach.de, Teubert info@teubert.de (копия service@teubert.de), Behl Info@behl-gmbh.com.
 - Без e-mail остались: Plast Trade, Weidner, PFS (только форма на machineseeker.com), Akkaya (тел. +90 850 455 0 377, +90 282 655 58 94).
 - У Teubert есть представители: particlefoamservice.com, erbi.fr (Франция), comercial-schneider.es (Испания) — можно спросить про б/у.
+
+## Ответы (2026-11-16)
+- **Topmachine** (Carlos Pérez, c.perez@topmachine.com, моб. +34 625 433 105): спросил название компании, проверяет, доступна ли K810. Пользователь ответил: «ComfortBuilding», Польша.
+- **MachinePoint** (info@machinepoint.com): на оба письма просят данные покупателя: название компании, полный адрес, мобильный телефон, сайт или профиль компании. После этого менеджер пришлёт информацию. Нужны данные от пользователя.
+- **Teubert** (J. Pfaff): автоответ «нет на месте», ждём.
+- Компания покупателя для переписки: ComfortBuilding (Польша).
