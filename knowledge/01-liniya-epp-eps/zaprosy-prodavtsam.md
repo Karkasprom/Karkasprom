@@ -199,3 +199,4 @@ Prosimy o informacje:
 5. Czy jest możliwość obejrzenia maszyny w Chorzowie w najbliższych dniach (najlepiej w pracy)?
 6. Zdjęcia/wideo, cena końcowa netto, warunki płatności.
 Comfortable Building Sp. z o.o., ul. Starowiejska 19, 32-406 Zakliczyn, NIP 6762482667
+- 2026-11-16 вечер: Topmachine — Kurtz K810 уже недоступен, сообщат о похожих машинах. Отправлен ответ: подойдёт любая марка и размер под EPP (камера 600×800 – 2000×1600, пар 4,5–5 бар), а также оборудование для линии EPP.
