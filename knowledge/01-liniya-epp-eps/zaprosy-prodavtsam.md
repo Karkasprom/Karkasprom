@@ -93,3 +93,75 @@ Mit freundlichen Grüßen
 [Имя]
 [Компания]
 [Телефон/WhatsApp], [E-mail]
+
+---
+
+# Общий запрос «ищем б/у пресс под EPP» (2026-11-16)
+
+## Кому
+| # | Кто | Страна | Тип | Как связаться |
+|---|---|---|---|---|
+| 1 | Topmachine | Испания | дилер | topmachine@topmachine.com — запрос по K810 уже отправлен |
+| 2 | MachinePoint | Испания | дилер | info@machinepoint.com |
+| 3 | Kurtz (Kurtz Ersa), Кройцвертхайм | Германия | производитель | info@kurtz.de (адрес с выставочной страницы, может быть устаревшим), тел. +49 9342 807-0 |
+| 4 | Erlenbach GmbH, Лаутерт | Германия | производитель | форма на erlenbach.com |
+| 5 | Teubert Maschinenbau, Блумберг | Германия | производитель | тел. +49 7702 4393-0, e-mail уточнить по телефону |
+| 6 | Behl GmbH | Германия | производитель | форма на behl-gmbh.com |
+| 7 | Plast Trade, Груасья | Франция | дилер | форма на machineseeker.com (профиль дилера 61892) |
+| 8 | Weidner GmbH, Штайнфельд | Германия | дилер | форма на machineseeker.com (профиль дилера 59431) |
+| 9 | PFS, Лиса-над-Лабем | Чехия | дилер | форма на machineseeker.com (профиль дилера 295631), контакт Tomas Neuhausl |
+| 10 | Akkaya | Турция | производитель, спросить про б/у машины, сданные клиентами при покупке новых | тел. +90 850 455 0 377 |
+
+## Текст (EN)
+
+**Subject:** Looking for a used EPP shape moulding machine (4.5–5 bar steam)
+
+Hello,
+
+We are looking for a **used shape moulding machine suitable for EPP** (expanded polypropylene) and would like to know if you have one available now or expect one soon (including trade-ins from your customers).
+
+Requirements:
+- EPP-capable: steam chamber pressure rating 4.5–5 bar or higher
+- Steam chamber / mould size from approx. 800 × 1000 mm (larger is welcome)
+- Steel steam chambers, sufficient clamping force for EPP
+- Preferably with pressure filling system and EPP bead pressurisation (or available separately)
+- In working condition, ideally can be seen in operation
+- Budget: up to approx. EUR 80,000 (machine only)
+
+Please send: model, year, operating hours, steam pressure rating, clamping force, chamber size, what is included, price, location, photos/video.
+
+Delivery destination: Ukraine. We can arrange dismantling and transport, or use your service if available.
+
+Thank you in advance.
+
+Best regards,
+[Имя]
+[Компания]
+[Телефон/WhatsApp], [E-mail]
+
+## Текст (DE) — для немецких производителей и дилеров
+
+**Betreff:** Suche gebrauchter EPP-Formteilautomat (Dampfdruck 4,5–5 bar)
+
+Guten Tag,
+
+wir suchen einen **gebrauchten Formteilautomaten für EPP** und möchten wissen, ob Sie aktuell eine Maschine anbieten können oder demnächst eine erwarten (auch Inzahlungnahmen Ihrer Kunden).
+
+Anforderungen:
+- EPP-tauglich: Dampfkammern ausgelegt für mindestens 4,5–5 bar
+- Dampfkammer-/Werkzeuggröße ab ca. 800 × 1000 mm
+- Dampfkammern aus Stahl, ausreichende Schließkraft für EPP
+- Möglichst mit Druckfüllsystem und Druckbeladung für EPP-Granulat
+- Betriebsbereit, gerne Besichtigung im Betrieb
+- Budget: bis ca. 80.000 EUR (nur Maschine)
+
+Bitte senden Sie uns: Typ, Baujahr, Betriebsstunden, zulässiger Dampfdruck, Schließkraft, Kammergröße, Lieferumfang, Preis, Standort, Fotos/Video.
+
+Lieferziel: Ukraine.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Grüßen
+[Имя]
+[Компания]
+[Телефон/WhatsApp], [E-mail]
