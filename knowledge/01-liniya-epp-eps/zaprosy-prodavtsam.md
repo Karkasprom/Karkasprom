@@ -164,3 +164,6 @@ Mit freundlichen Grüßen
 - Отправлено с Gmail: Topmachine (EN), MachinePoint (EN, плюс вопрос по 4 машинам из их каталога), Kurtz info@kurtz.de (DE).
 - Не отправлено, e-mail неизвестен, только форма или телефон: Erlenbach, Teubert, Behl, Plast Trade, Weidner, PFS, Akkaya.
 - Старый черновик MachinePoint в Gmail больше не нужен.
+- Дополнительно отправлено 2026-11-16 (DE): Erlenbach info@erlenbach.de, Teubert info@teubert.de (копия service@teubert.de), Behl Info@behl-gmbh.com.
+- Без e-mail остались: Plast Trade, Weidner, PFS (только форма на machineseeker.com), Akkaya (тел. +90 850 455 0 377, +90 282 655 58 94).
+- У Teubert есть представители: particlefoamservice.com, erbi.fr (Франция), comercial-schneider.es (Испания) — можно спросить про б/у.
