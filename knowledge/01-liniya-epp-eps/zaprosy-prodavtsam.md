@@ -3,6 +3,8 @@
 Отправлять через кнопку «Anfragen» / «Request» в объявлении или на e-mail продавца.
 
 **Статус 2026-11-16:** MachinePoint — черновик в Gmail на info@machinepoint.com (все 4 машины одним письмом), ждёт отправки. resale.de и maschinensucher.de — e-mail продавцов скрыт, только через форму «Anfragen» на сайте.
+
+**Topmachine (Kurtz K810, ref. 17966):** письмо отправлено с Gmail 2026-11-16 на topmachine@topmachine.com. Ждём ответ.
 Вместо [Имя], [Компания], [Телефон/WhatsApp], [E-mail] подставить свои данные.
 
 ## Кому
