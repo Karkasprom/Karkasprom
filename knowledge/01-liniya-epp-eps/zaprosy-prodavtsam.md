@@ -129,8 +129,6 @@ Requirements:
 
 Please send: model, year, operating hours, steam pressure rating, clamping force, chamber size, what is included, price, location, photos/video.
 
-Delivery destination: Ukraine. We can arrange dismantling and transport, or use your service if available.
-
 Thank you in advance.
 
 Best regards,
@@ -154,8 +152,6 @@ Anforderungen:
 - Betriebsbereit, gerne Besichtigung im Betrieb
 
 Bitte senden Sie uns: Typ, Baujahr, Betriebsstunden, zulässiger Dampfdruck, Schließkraft, Kammergröße, Lieferumfang, Preis, Standort, Fotos/Video.
-
-Lieferziel: Ukraine.
 
 Vielen Dank im Voraus.
 
