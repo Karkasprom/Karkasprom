@@ -159,3 +159,8 @@ Mit freundlichen Grüßen
 [Имя]
 [Компания]
 [Телефон/WhatsApp], [E-mail]
+
+## Статус общего запроса (2026-11-16)
+- Отправлено с Gmail: Topmachine (EN), MachinePoint (EN, плюс вопрос по 4 машинам из их каталога), Kurtz info@kurtz.de (DE).
+- Не отправлено, e-mail неизвестен, только форма или телефон: Erlenbach, Teubert, Behl, Plast Trade, Weidner, PFS, Akkaya.
+- Старый черновик MachinePoint в Gmail больше не нужен.
