@@ -6,12 +6,12 @@
 ## Кому
 | Машина | Площадка | Номер | Язык |
 |---|---|---|---|
-| Erlenbach EHV-C 1485/1285 (2002) | machinepoint.com | 300049426 | EN |
-| Erlenbach EHV-C 1395/870 (2003) | machinepoint.com | 300049438 | EN |
-| Hirsch HS 1500 AV1-W1515 (1999) | machinepoint.com | см. список EPS Shape Moulding | EN |
-| Kurtz K15.526 (2004) | machinepoint.com | см. список EPS Shape Moulding | EN |
-| Erlenbach EHV-C 1270/670 | resale.de | 170058867 | DE |
-| Печь Kurtz Ersa MTL для EPP (2021) | maschinensucher.de | i-21787618 | DE |
+| Erlenbach EHV-C 1485/1285 (2002) | https://www.machinepoint.com/machinepoint/inventory.nsf/idmaquina/300049426?opendocument&ln=en | 300049426 | EN |
+| Erlenbach EHV-C 1395/870 (2003) | https://www.machinepoint.com/machinepoint/inventory.nsf/idmaquina/300049438?opendocument&ln=en | 300049438 | EN |
+| Hirsch HS 1500 AV1-W1515 (1999) | https://www.machinepoint.com/machinepoint/inventory.nsf/idmaquina/300049855?opendocument&ln=en | 300049855 | EN |
+| Kurtz K15.526 (2004) | https://www.machinepoint.com/machinepoint/inventory.nsf/idmaquina/300043033?opendocument&ln=en | 300043033 | EN |
+| Erlenbach EHV-C 1270/670 | https://www.resale.de/erlenbach-ehv-c-1270-670-formteilautomaten/Nr-170058867 | 170058867 | DE |
+| Печь Kurtz Ersa MTL для EPP (2021) | https://www.maschinensucher.de/kurtz+ersa+mtl-m/i-21787618 | 21787618 | DE |
 
 ---
 
