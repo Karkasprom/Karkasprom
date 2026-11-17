@@ -200,3 +200,8 @@ Prosimy o informacje:
 6. Zdjęcia/wideo, cena końcowa netto, warunki płatności.
 Comfortable Building Sp. z o.o., ul. Starowiejska 19, 32-406 Zakliczyn, NIP 6762482667
 - 2026-11-16 вечер: Topmachine — Kurtz K810 уже недоступен, сообщат о похожих машинах. Отправлен ответ: подойдёт любая марка и размер под EPP (камера 600×800 – 2000×1600, пар 4,5–5 бар), а также оборудование для линии EPP.
+
+## Запрос на формовку EPP на стороне (Польша), отправлено 2026-11-17 (PL)
+- Без упоминания назначения изделия (только «техническая деталь»), вес ≈ 1,5 кг, форма под камеру ≈ 1300×1500 мм, объём от нескольких сотен до нескольких тысяч штук в месяц.
+- Отправлено: NOVATIS info@novatis.pl; Styromax biuro@styromax.com.pl; Schaumaplast dorota.nowakowska@schaumaplast.pl (коммерческий директор, копия biuro@schaumaplast.pl, тел. +48 42 683 08 43); BASoft basoft@basoft.com.pl (возможно, только резка из блока).
+- Не отправлено: Knauf Industries Polska (только форма на knaufautomotive.com/contact, Адамовице/Мщонув); Boryszew ERG — по реестру ликвидирована.
