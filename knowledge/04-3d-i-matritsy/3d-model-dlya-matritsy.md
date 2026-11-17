@@ -27,3 +27,14 @@
 
 ## Приёмка первых деталей
 Сканировать первые отливки и сравнить с CAD (карта отклонений), только потом принимать матрицу.
+
+## Где сканировать в Украине (поиск 2026-11-17, цены с сайтов — уточнять)
+| Компания | Город | Что есть | Сайт |
+|---|---|---|---|
+| 3DPRINT.UA | Киев, выезд по Украине | RangeVision Pro (до 0,018 мм), Creality; реверс-инжиниринг → STEP/IGES; от 1 500 ₴ | https://3dprint.ua/reverse-engineering-3d-scanning-kyiv/ |
+| 3D Service (3ds.com.ua) | Киев, Борыспильская 12Б | сканер 0,01 мм, CAD по скану от $50 | https://www.3ds.com.ua/reverse-engineering |
+| 3D Scan Украина | Киев | лазерное сканирование, реверс, реселлер RangeVision | https://3dscan.com.ua/ |
+| Нова-инжиниринг | Украина | полный цикл: скан → КД → производство | https://nova-e.org/services/reversivnyy-inzhiniring/ |
+| Easy3Dprint | Киев, выезд UA/PL/LT | Shining3D EinScan Pro HD, от 500 ₴ | https://easy3dprint.com.ua/ru/3d-skanirovanie/ |
+| Днепровский завод спецінструменту | Днепр | 3D-скан + реверс-инжиниринг | https://dzc.dp.ua/ua/p3142844330-uslugi-skanirovaniya-revers.html |
+| 3DDevice (официальный Creaform) | Украина | продажа Creaform HandySCAN/MetraSCAN — спросить сервис/аренду | https://3ddevice.com.ua/en/3d-scanner/ |
