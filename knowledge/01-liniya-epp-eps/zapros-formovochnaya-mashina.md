@@ -7,7 +7,7 @@
 ### Европа (основные по EPP)
 | Компания | Страна | Модели EPP | Контакты |
 |---|---|---|---|
-| Teubert Maschinenbau GmbH | DE, Waldshuter Str. 15, 78176 Blumberg | спецмашины EPP/EPE/EPS (Unimat, TramsTec) | www.teubert.de — email и телефон взять из Impressum сайта |
+| Teubert Maschinenbau GmbH | DE, Waldshuter Str. 15, 78176 Blumberg | спецмашины EPP/EPE/EPS (Unimat, TramsTec) | info@teubert.de, +49 7702 4393-0 (Impressum) |
 | Kurtz GmbH (Kurtz Ersa) | DE, Frankenstraße 2, 97892 Kreuzwertheim | FOAMER: PRO / PURE / THERMO / ROTO | +49 9342 807-0; info@kurtz.de (не подтверждён, есть форма на kurtzersa.com) |
 | Erlenbach GmbH (HeTech Group) | DE, Am Roedchen 1, 56355 Lautert | EMMotion, EMHybrid, EMDynamic, EMShuttle, EMBase | +49 6772 801-0; info.em@hetech-group.com (с сайта) |
 | Hirsch Maschinenbau | AT | в основном EPS, уточнить EPP | через сайт hirsch-gruppe.com |
