@@ -3,6 +3,7 @@
 Цель (решение пользователя 2026-11-20): найти **б/у пресс под EPP** (паровые камеры на 4,5–5 бар, камера от 600×800 до 2000×1600 мм), любая марка, Европа + Турция. Линия целиком — плюс, но достаточно одного пресса. Покупаем для себя, не перекупщики. Не предлагать поставщиков, связанных с Россией.
 
 Подпись в письмах: «Dmytro, Comfortable Building Sp. z o.o., Poland» (реквизиты: ul. Starowiejska 19, 32-406 Zakliczyn, NIP 6762482667). Писать коротко, простым языком, как живой человек. Без автоподписи Gmail. Решение пользователя 2026-11-20: все переговоры ведём только от Comfortable Building Sp. z o.o. (не KARKAS PROM).
+Если письмо вернулось с ошибкой (адрес не найден, 550), найти актуальный адрес на странице контактов и переотправить.
 
 ## Три направления каждый день
 1. Объявления и аукционы б/у (список площадок ниже).
@@ -37,7 +38,7 @@
 
 ## Кому уже писали (не писать повторно без нового повода)
 Topmachine, MachinePoint, Kurtz (info@kurtz.de), Erlenbach, Teubert (info@, w.teubert@), Behl, HETech, NOVATIS, Styromax, Schaumaplast, BASoft, Boryszew ERG, представители Teubert: particlefoamservice.com, erbi.fr, comercial-schneider.es (20.11).
-Переработчики EPP (20.11): JET Schaumstoff-Formteile (info@jet-verpackungen.de), Huckschlag (info@huckschlag.de), Gebr. Zirwick (info@zirwick.de), Schlaadt (info@schlaadt.de), HIRSCH Porozell (office.porozell@hirsch-gruppe.com), Wolters Europe NL/CZ (info@wolterseurope.com), Atermit TR (atermit@atermit.com), Storopack (info@storopack.com).
+Переработчики EPP (20.11): JET Schaumstoff-Formteile — info@jet-verpackungen.de не работает (550), JET теперь в группе VELUX; переотправлено Dirk Brakemann, руководитель подразделения, dirk.brakemann@velux.com, Huckschlag (info@huckschlag.de), Gebr. Zirwick (info@zirwick.de), Schlaadt (info@schlaadt.de), HIRSCH Porozell (office.porozell@hirsch-gruppe.com), Wolters Europe NL/CZ (info@wolterseurope.com), Atermit TR (atermit@atermit.com), Storopack (info@storopack.com).
 Ещё не писали (e-mail не найден / сайт не открылся): Jacob-Formschaumtechnik, Kunststofftechnik Schedel, Skufa, Kunststoffwerk Katzbach, Taracell, Preiter, LDG Lemahieu, EPSA (TR), Ücgen (TR), Knauf Industries, Delkeskamp, FEURER Febra.
 
 ## Журнал по дням
