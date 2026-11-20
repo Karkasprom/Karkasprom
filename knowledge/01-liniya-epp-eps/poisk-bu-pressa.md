@@ -39,7 +39,9 @@
 ## Кому уже писали (не писать повторно без нового повода)
 Topmachine, MachinePoint, Kurtz (info@kurtz.de), Erlenbach, Teubert (info@, w.teubert@), Behl, HETech, NOVATIS, Styromax, Schaumaplast, BASoft, Boryszew ERG, представители Teubert: particlefoamservice.com, erbi.fr, comercial-schneider.es (20.11).
 Переработчики EPP (20.11): JET Schaumstoff-Formteile — info@jet-verpackungen.de не работает (550), JET теперь в группе VELUX; переотправлено Dirk Brakemann, руководитель подразделения, dirk.brakemann@velux.com, Huckschlag (info@huckschlag.de), Gebr. Zirwick (info@zirwick.de), Schlaadt (info@schlaadt.de), HIRSCH Porozell (office.porozell@hirsch-gruppe.com), Wolters Europe NL/CZ (info@wolterseurope.com), Atermit TR (atermit@atermit.com), Storopack (info@storopack.com).
-Ещё не писали (e-mail не найден / сайт не открылся): Jacob-Formschaumtechnik, Kunststofftechnik Schedel, Skufa, Kunststoffwerk Katzbach, Taracell, Preiter, LDG Lemahieu, EPSA (TR), Ücgen (TR), Knauf Industries, Delkeskamp, FEURER Febra.
+Переработчики EPP (20.11, вторая партия): Ruch Novaplast (info@ruch.de), Jacob-Formschaumtechnik (info@jacob-formschaum.de), Kunststoffwerk Katzbach / grupor (info@grupor.de), Taracell CH (info@taracell.com).
+Ещё не писали (e-mail не найден / сайт не открылся): Kunststofftechnik Schedel, Skufa, Claus Pfennig, Steinbach AG, Preiter, LDG Lemahieu, EPSA (TR), Ücgen (TR), Knauf Industries, Delkeskamp, FEURER Febra.
 
 ## Журнал по дням
 - 2026-11-20: старт ежедневного поиска. Новых б/у прессов под EPP не найдено. Отправлены письма 3 представителям Teubert (FR, ES, сервис) и 8 переработчикам EPP (DE, NL/CZ, TR). Сеть окружения Karkasprom открыта полностью для ежедневного поиска.
+- 2026-11-20 (ежедневный запуск 09:44): объявления без изменений (Kurtz K1318 в Хожуве за 290 000 зл ещё активно; resale.de — только Erlenbach EPS и NAN-JHIEH; maschinensucher — новых Kurtz/Erlenbach/Teubert нет). Новых ответов в почте нет, кроме возврата по JET (переотправлено на velux.com). Письма 4 новым переработчикам EPP: Ruch Novaplast, Jacob-Formschaumtechnik, Katzbach (grupor), Taracell.
