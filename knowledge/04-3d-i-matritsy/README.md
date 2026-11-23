@@ -70,3 +70,17 @@
 - **JET Verpackungen (Hüllhorst, DE, группа Velux)** — EPP/EPS формовщик. Письмо на info@jet-verpackungen.de (20.11)
   отбито сервером (550, 5.7.0). 2026-11-23 переотправлено: Torsten Hoeger (Vertriebsleitung, torsten.hoeger@velux.com,
   +49 176 15618822), копия Dirk Brakemann (Geschäftsbereichsleitung, dirk.brakemann@velux.com). Тел. +49 5744 503-0.
+
+## Запросы изготовителям матриц EPP (2026-11-23)
+Отправлено (только чертёж матрицы 1485×1285, без 3D): цена, от чего зависит, срок, какие данные нужны.
+| Фирма | Страна | E-mail | Статус |
+|---|---|---|---|
+| Keiels Formenbau | DE | formenbau@keiels.de | отправлено |
+| Zindt Formenbau | DE | info@zindt-fb.de | отправлено |
+| FORMOTiON GmbH | DE | info@formotion-gmbh.de | отправлено |
+| Styromax | PL | biuro@styromax.com.pl | отправлено |
+| Idé-Pro | DK | sales@ide-pro.dk | отправлено |
+| Meta Moulds | IT | info@metamoulds.it | отправлено |
+| Novatis | PL | info@novatis.pl | ранее (с 3D-видом) |
+Не нашли e-mail (только сайт/телефон): T. Michel Formenbau (DE, +49 6772 96940-0), Gebr. Diemer (DE),
+CNC TVAR (CZ, +420 482 311 217), Pasqualon Stampi (IT), Red Stamp (IT), Malco (IT), Aluform (PL, меняет профиль).
