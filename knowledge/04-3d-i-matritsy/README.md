@@ -80,7 +80,7 @@
 | FORMOTiON GmbH | DE | info@formotion-gmbh.de | отправлено |
 | Styromax | PL | biuro@styromax.com.pl | отправлено |
 | Idé-Pro | DK | sales@ide-pro.dk | отправлено |
-| Meta Moulds / MPE Srl (NPU Holding) | IT | info@metamoulds.it → ответил Alberto Cerea, alberto.cerea@mpe.it, +39 340 4847720 | 23.11 ответили: нужен STEP, предлагают NDA. Ответили: нужна матрица + отливка деталей; отправлен 3D-вид (PDF); по STEP/NDA — вернёмся |
+| Meta Moulds / MPE Srl (NPU Holding) | IT | info@metamoulds.it → ответил Alberto Cerea, alberto.cerea@mpe.it, +39 340 4847720 | 23.11 ответили: нужен STEP, предлагают NDA. Ответили: нужна матрица + отливка деталей; отправлен 3D-вид (PDF); 23.11 отправлен STEP (Parts.zip, метаданные очищены — без названия проекта), NDA не подписан |
 | Novatis | PL | info@novatis.pl | ранее (с 3D-видом) |
 Не нашли e-mail (только сайт/телефон): T. Michel Formenbau (DE, +49 6772 96940-0), Gebr. Diemer (DE),
 CNC TVAR (CZ, +420 482 311 217), Pasqualon Stampi (IT), Red Stamp (IT), Malco (IT), Aluform (PL, меняет профиль).
